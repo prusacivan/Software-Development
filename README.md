@@ -14,10 +14,6 @@ the consonants from the given forename are not used in the login name)
 name (including spaces)
 
 
-
-
-
-
 b) Travel Deals
 
 Your local travel agency provides discounts to students. They hired you to develop
@@ -26,3 +22,15 @@ user to specify when they want to take the trip (that is either during winter br
 summer break), and the number of students who will travel together. Next, the
 application should compute the price per student and the total price per trip (i.e.
 based on the number of students traveling together).
+
+
+c) Word game
+
+2 Players need to write as many as they can computer realted words.
+Rules of the game: 
+At the begining choose how many rounds you want to play.
+Before first round starts you will see random 12 letters that you can use in game.
+The word has to be formed only from the 12 letters randomly selected for that round.
+Each player gain points for each double vowel in the word.
+Winner is player who have more double vowels.
+
